@@ -1,0 +1,214 @@
+body{
+    font-family: 'Maison Neue' !important;
+    letter-spacing: 0.3px !important;
+   
+}
+
+header{
+    color: white;
+    font-weight: 500;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#19fc43+0,ff195f+99&0.1+2,0.1+100 */
+background: #020219 -moz-linear-gradient(45deg, rgba(25,252,67,0.05) 0%, rgba(30,247,68,0.11) 2%, rgba(255,25,95,0.15) 99%, rgba(255,25,95,0.15) 100%); /* FF3.6-15 */
+background: #020219 -webkit-linear-gradient(45deg, rgba(25,252,67,0.05) 0%,rgba(30,247,68,0.11) 2%,rgba(255,25,95,0.15) 99%,rgba(255,25,95,0.15) 100%); /* Chrome10-25,Safari5.1-6 */
+background:#020219 linear-gradient(45deg, rgba(25,252,67,0.05) 0%,rgba(30,247,68,0.11) 2%,rgba(255,25,95,0.11) 99%,rgba(255,25,95,0.15) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a19fc43', endColorstr='#1aff195f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+    
+
+}
+
+.navbar-toggler {
+    color: white;
+}
+.navbar li a  {
+    font-weight: 300;
+   color: inherit ;
+    margin-left: 0.5rem;
+
+
+}
+h1{
+
+    font-weight: 600 !important;
+    font-size: 4.25rem !important;
+}
+
+.mt-6{
+    margin-top: 4.75rem;
+}
+
+.act{
+    color: #19FC43 !important;
+    
+}
+
+header a.nav-link.active {
+    color: #19FC43 !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+
+    background-color: transparent !important ;
+    -webkit-box-shadow: 0px 3px 0px 0px rgba(0,92,229,1);
+-moz-box-shadow: 0px 3px 0px 0px rgba(0,92,229,1);
+box-shadow: 0px 3px 0px 0px rgba(0,92,229,1);
+
+}
+
+.active-bg{
+    background-color: #19FC43 !important;
+    height: 8px;
+    width: 8px;
+    margin-left: -20px;
+    margin-top: 48px;
+}
+
+.avatar{
+    background-image: url(../assets/louilo.svg);
+    width: 8.125rem; 
+    height: 8.125rem; 
+    overflow:hidden;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 150% 150%;
+    background-color: #e8e8ea;
+    border:  3px solid #e8e8ea;
+}
+
+.avatar2{
+    background-image: url(../assets/louilo.svg);
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow:hidden;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 150% 150%;
+    background-color: #e8e8ea;
+    border:  3px solid #e8e8ea;
+}
+
+h3{
+    font-size: 20px !important ;
+    text-transform: uppercase;
+    color: #495c68 !important;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+.progress{
+    height: 2px !important ;
+
+}
+
+.progress-bar{
+    background-color: #020219 !important ;
+}
+
+p{
+    line-height: 2;
+}
+
+number{
+    font-size: 68px;
+    font-weight: 600; 
+}
+number2{
+    font-size: 32px;
+    font-weight: 600; 
+    line-height: 1;
+}
+
+h5{
+    color: #495c68 !important;
+    font-size: 16px !important;
+
+}
+
+date{
+    font-size: 24px !important;
+    text-transform: uppercase;
+    line-height: 0.9 !important;
+}
+
+.periode{
+    text-align: right;
+}
+
+.project-nav{
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    border-bottom:1px solid #e8e8ea;
+}
+
+
+.nav-pills .nav-link {
+    border-radius: 0px !important;
+    color: #020219 !important;
+   
+}
+
+.italic{
+    font-style: italic;
+    color: #76828A;
+}
+
+.left-date{
+    text-align: right;
+}
+
+.fit{
+    width: 100%;
+}
+
+.fit2{
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 100%;
+    height: 100%;
+
+}
+.scroll{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.article p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    color: white;
+    font-weight: 500;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#19fc43+0,ff195f+99&0.1+2,0.1+100 */
+background: #020219 -moz-linear-gradient(45deg, rgba(25,252,67,0.05) 0%, rgba(30,247,68,0.11) 2%, rgba(255,25,95,0.15) 99%, rgba(255,25,95,0.15) 100%); /* FF3.6-15 */
+background: #020219 -webkit-linear-gradient(45deg, rgba(25,252,67,0.05) 0%,rgba(30,247,68,0.11) 2%,rgba(255,25,95,0.15) 99%,rgba(255,25,95,0.15) 100%); /* Chrome10-25,Safari5.1-6 */
+background:#020219 linear-gradient(45deg, rgba(25,252,67,0.05) 0%,rgba(30,247,68,0.11) 2%,rgba(255,25,95,0.11) 99%,rgba(255,25,95,0.15) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a19fc43', endColorstr='#1aff195f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+    
+}
+
+.btn-xl{
+    height: 3rem;
+    /* font-size: 16px; */
+    padding: 0.875rem 2rem !important;
+    background-color: #19FC43 !important;
+    border: #19FC43 !important;
+    color: #020219 !important;
+    border-radius: 0px !important;
+
+}
+
+.nav{
+    text-transform: uppercase !important;
+}
